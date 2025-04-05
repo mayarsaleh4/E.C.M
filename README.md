@@ -5,28 +5,16 @@
 E.C.M is a Energy Consumption Monitor website that is built using React and Vite, providing a minimal setup and a lot of features to users.
 
 ## Features
-1.📊 View Energy Consumption Data
-  Explore U.S. data on electricity and natural gas usage.
-2.💰 Track Retail Prices
-  See how much electricity and gas cost over time in different states.
-3.🏭 Analyze Industry & Commercial Use
-  Understand how energy is used in industries vs. commercial sectors.
-4.🌡️ Check Heat Content of Natural Gas
-  View energy content (in BTUs) of natural gas over time.
-5.📅 Filter Data by Year
-  Choose specific years or ranges to compare energy trends.
-6.📍 Filter by State
-  See which states are top or lowest consumers.
-7.✨ Save Favorite Graphs
-  Mark certain graphs as favorites and revisit them anytime.
-8.🔍 Add & View Different Energy Types (Dynamic)
-  The system is built to dynamically handle new energy types by just adding the API and new page.
-9.📈 Interactive Graphs
-  Hover and interact with visual charts to get detailed info.
-10.📥 Import Data & Edit Variables (Planned / Functional)
-  Import datasets, and possibly tweak variables for deeper analysis (depending on current stage of development).
-11.💡 Get Optimization Tips
-  The site suggests strategies for energy efficiency based on usage patterns.
+- 📊 View and explore electricity and natural gas consumption data in the U.S.
+- 💰 Track and compare retail energy prices across states and years.
+- 🏭 Analyze industrial and commercial energy usage patterns.
+- 🌡️ Check heat content data for natural gas.
+- 📅 Filter data by year for trend analysis.
+- 📍 Filter by state to view top or least energy consumers.
+- ✨ Save your favorite graphs for easy access anytime.
+- 🔄 Dynamically add new energy data types without changing the code.
+- 📈 Interactive and responsive graph visualizations.
+- 💡 Get suggestions for optimizing energy consumption.
 
 ## Project Tools
 - **React + Vite**: Leverages Vite's fast build system with React for efficient development.
